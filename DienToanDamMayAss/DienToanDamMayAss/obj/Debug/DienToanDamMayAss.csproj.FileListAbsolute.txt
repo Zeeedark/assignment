@@ -1,0 +1,13 @@
+F:\Code\DienToanDamMayAss\DienToanDamMayAss\bin\Debug\DienToanDamMayAss.exe.config
+F:\Code\DienToanDamMayAss\DienToanDamMayAss\bin\Debug\DienToanDamMayAss.exe
+F:\Code\DienToanDamMayAss\DienToanDamMayAss\bin\Debug\DienToanDamMayAss.pdb
+F:\Code\DienToanDamMayAss\DienToanDamMayAss\obj\Debug\DienToanDamMayAss.csprojResolveAssemblyReference.cache
+F:\Code\DienToanDamMayAss\DienToanDamMayAss\obj\Debug\DienToanDamMayAss.ItemChiTietLoaiSanPham.resources
+F:\Code\DienToanDamMayAss\DienToanDamMayAss\obj\Debug\DienToanDamMayAss.ItemDSLoaiSanPham.resources
+F:\Code\DienToanDamMayAss\DienToanDamMayAss\obj\Debug\DienToanDamMayAss.frmMain.resources
+F:\Code\DienToanDamMayAss\DienToanDamMayAss\obj\Debug\DienToanDamMayAss.Properties.Resources.resources
+F:\Code\DienToanDamMayAss\DienToanDamMayAss\obj\Debug\DienToanDamMayAss.csproj.GenerateResource.Cache
+F:\Code\DienToanDamMayAss\DienToanDamMayAss\obj\Debug\DienToanDamMayAss.exe
+F:\Code\DienToanDamMayAss\DienToanDamMayAss\obj\Debug\DienToanDamMayAss.pdb
+F:\Code\DienToanDamMayAss\DienToanDamMayAss\obj\Debug\DienToanDamMayAss.Khachhang.resources
+F:\Code\DienToanDamMayAss\DienToanDamMayAss\obj\Debug\DienToanDamMayAss.ItemKhachHang.resources
